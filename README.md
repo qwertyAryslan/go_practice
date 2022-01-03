@@ -1,2 +1,2 @@
 # go_practice
-Practicing in GO langueag
+Practicing in GO language
